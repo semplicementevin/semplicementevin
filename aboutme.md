@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @semplicementevin
+- 👀 I’m interested in developing Mobile Apps and videogames.
+- 🌱 I’m currently learning C#
+- 📫 How to reach me -> You can contact me on discord: !(Vin)#5792 is my username.
